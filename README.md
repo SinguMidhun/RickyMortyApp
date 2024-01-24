@@ -35,4 +35,11 @@
 
 </br></br>
 
+<h3>Libraries Used</h3> <br/>
+
+<p>
+Picasso : To show the character images <br/>
+Retrofit : To handle the network calls to the remote server<br/>
+Room : To implement the add to favourite feature</p>
+
 <p> Because of the time restrictions i have focused more on implementing the features instead of the UI</p>
