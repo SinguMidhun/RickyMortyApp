@@ -36,3 +36,6 @@
 </br></br>
 
 <p> Because of the time restrictions i have focused more on implementing the features instead of the UI</p>
+
+<h1>Download the Debug APK from here</h1>
+
